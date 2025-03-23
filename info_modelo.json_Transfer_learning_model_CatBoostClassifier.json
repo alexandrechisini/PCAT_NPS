@@ -1,0 +1,19 @@
+{
+    "features": [
+        "NPS",
+        "idade",
+        "quantas_vezes_servico",
+        "anosestudo",
+        "numero_filhos",
+        "mesmo_medico_1"
+    ],
+    "expected_shape": 6,
+    "data_types": {
+        "NPS": "float64",
+        "idade": "float64",
+        "quantas_vezes_servico": "float64",
+        "anosestudo": "float64",
+        "numero_filhos": "float64",
+        "mesmo_medico_1": "int32"
+    }
+}
