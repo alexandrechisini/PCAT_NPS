@@ -1,0 +1,15 @@
+{
+    "features": [
+        "NPS",
+        "idadr",
+        "escolaridade_responsavel",
+        "mesmo_medico_1.0"
+    ],
+    "expected_shape": 4,
+    "data_types": {
+        "NPS": "float64",
+        "idadr": "float64",
+        "escolaridade_responsavel": "float64",
+        "mesmo_medico_1.0": "int32"
+    }
+}
